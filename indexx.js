@@ -1,4 +1,4 @@
-let nome = "Arthur";
+let nome = "King-Arthur";
 let xp = 7500;
 
 let nivel = "";
